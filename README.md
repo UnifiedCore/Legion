@@ -20,6 +20,8 @@ mechanics and functionality.
 
 UnifiedCore development is completely open source; community involvement is highly encouraged.
 
+This project is built from [dufernst's repo](https://github.com/dufernst/LegionCore-7.3.5), special thanks to him for his commits.
+
 
 ## Requirements
 
